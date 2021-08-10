@@ -567,5 +567,7 @@
 "W-RBGS": "{&W}",
 "WR*RB": "{^,^}",
 "WR-RB": "{,}",
-"WUPB/SP-Z": "{&1} {^ ^}"
+"WUPB/SP-Z": "{&1} {^ ^}",
+"PHRO*F": "{PLOVER:SUSPEND}",
+"PHRO*PB": "{PLOVER:RESUME}"
 }
