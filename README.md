@@ -4,7 +4,7 @@ Hi! I'm Volensia, a steno hobbyist and amateur programmer. Thanks for visiting m
 
 You can find documentations for everything in this repository on the Wiki page!
 
-## fix.json
+## phoenix_fix.json
 
 A dictionary designed to be used together with the Phoenix dictionary. This dictionary should fix everything that doesn't work in the Phoenix dictionary.
 
