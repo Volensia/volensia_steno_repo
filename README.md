@@ -1,6 +1,8 @@
-# phoenix_in_plover_extras
+# Volensia's Steno Repository
 
-Contains a few dictionaries that can be used together with the Phoenix dictionary.
+Hi! I'm Volensia, a steno hobbyist and amateur programmer. Thanks for visiting my steno collections repository! Here, I post all kinds of stuff related to steno that I personally use.
+
+You can find documentations for everything in this repository on the Wiki page!
 
 ## fix.json
 
@@ -22,12 +24,8 @@ Credit to @winston on Discord for compiling `pipPunctuation.json` and `pipComman
 
 Since Phoenix has a number system that avoids the number bar, why not use it for something else? Abbreviations for U.S. states and Canadian provinces & terriories! Phoenix does have briefs for states, but they are highly arbitrary and impossible to memorize for me, a Canadian, who doesn't need to type state names very often. What I do need very often, however, are province briefs—But I wasn't very inclined to design 13 more arbitrary briefs. So I designed this simple abbreviation system and shared it here.
 
-Most briefs are just the "1st letter on the left hand + 2nd letter on the right hand + number bar". There are a few exceptions, though:
+## phoenix_word_parts.rtf
 
-1. "I" is stroked `EU`, not `AOEU` (so Iowa can be stroked `#AEU`, and also to make the outline easier to stroke).
+A dictionary designed to make finger spelling easier. Based on the "word part" system in the Phoenix dictionary but a bit more systematic.
 
-2. There are no `H`, `W`, `Y` keys on the right hand side, so they are stroked as `*` instead (except New York, which is a combination of N and Y on the left hand side `#TKPWHR`, to prevent conflict with New Hampshire `#TPH*`).
-
-3. `C` on the right side is stroked `RBG`, because it's stroked `KR` on the left side, and the right side equivalent of `K` is `BG`.
-
-I also added some common abbreviations like "U.S.", "U.K.", "e.g.", "i.e." and "etc.". Certain abbreviations like "Mt." cannot be added because it conflicts with MT (Montana), but otherwise I find this to be a very helpful abbreviation system.
+All strokes end in -PG and stick to the previous stroke, unlike the usual finger spelling strokes which only stick to entries marked with a glue operator. For the most part, it works exactly like regular finger spelling, but you can stroke a consonant and a vowel at the same time. Adding an asterisk will capitalize the first letter.
